@@ -1,0 +1,37 @@
+R Overview
+==========
+$$ comparable commercial packages are SAS, SPSS 
+$$ IDE for R
+	Eclipse
+		• Used by Java developers ( http://bit.ly/1kRtU3e)
+		• StatET plugin ( http://bit.ly/OH1G03 ) 
+	Architect
+		• R oriented variant of Eclipse
+		• http://bit.ly/1mlYogP 
+	Revolution-R
+		• Enterprise edition
+		• http://bit.ly/1gkJzZo 
+	Live-R	
+		• R in web application
+		• http://bit.ly/PZN38V 
+	RStudio
+		• R oriented IDE
+		• http://bit.ly/NBHT0U
+
+R Help
+======
+$$ On search engine, use [R] instead of R
+$$ subscribe to mailing list:
+	R-help; R-devel; R-sig-finance or R-sig-hpc; http://bit.ly/mailingR
+$$ blogs
+	R-Bloggers; Revolution Analytics blog; R-Statistics blog; R-Data mining blog
+
+R Variables & Operators
+=======================
+$$ Google R style guide http://bit.ly/googleRguide
+
+R Data Structures
+=================
+$$ Homogeneous (similar type) --> Atomic Vector (1D); Matrix (2D); Array (nD)
+$$ Heterogeneous (non-similar type) --> List (1D); Data Frame (2D)
+$$ Data types: Character, Numeric, Integer, Logical, Complex
